@@ -11,4 +11,8 @@ This is a simple Weather App that provides real-time weather updates for any loc
 
 ## 🛠 Tech Stack  
 - *Frontend:* HTML, CSS, JavaScript  
-- *API:* OpenWeatherMap API 
+- *API:* OpenWeatherMap API
+ ## 📸 Screenshot  
+![Weather App Screenshot](![Screenshot 2025-05-08 144557](https://github.com/user-attachments/assets/b75bea14-eaa3-40d9-8fa0-9f12806cb4d2)
+)
+
