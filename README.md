@@ -13,7 +13,7 @@ This is a simple Weather App that provides real-time weather updates for any loc
 - *Frontend:* HTML, CSS, JavaScript  
 - *API:* OpenWeatherMap API
  ## 📸 Screenshot  
-Weather App Screenshot![Screenshot 2025-05-08 144910](https://github.com/user-attachments/assets/43392044-0a0f-476b-8684-9140b10b092c)
+Weather App Screenshot![Weather of New York](https://github.com/user-attachments/assets/43392044-0a0f-476b-8684-9140b10b092c)
 
 
 
